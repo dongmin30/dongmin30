@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Dongmin Kim</h1>
+<h1 align="center">Hi, I'm Dongmin Kim</h1>
 <h3 align="center">I'm Java-based developer from Korean</h3>
 
 - Spring_Framework_learn [Spring_learn](https://github.com/dongmin30/Spring_learn)
