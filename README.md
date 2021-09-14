@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIMDONGMIN&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=KIMDONGMIN&fontSize=55&animation=fadeIn&fontColor=#)
 
 
 <!--<h1 align="center">Hi, I'm Dongmin Kim</h1>
