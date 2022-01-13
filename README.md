@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=KIMDONGMIN&fontSize=55&animation=fadeIn&fontColor=#)
-
-
 <!--<h1 align="center">Hi, I'm Dongmin Kim</h1>
 <h3 align="center">I'm Java-based developer from Korean</h3>-->
 
