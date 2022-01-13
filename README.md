@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--<h1 align="center">Hi, I'm Dongmin Kim</h1>
 <h3 align="center">I'm Java-based developer from Korean</h3>-->
 
-- Spring_Framework_learn [Spring_learn](https://github.com/dongmin30/Spring_learn)
+Hi I'm a Java stack-based developer.
+
+I am currently studying the spring framework.
 
 
 <h3 align="left">My Tech stack</h3>
