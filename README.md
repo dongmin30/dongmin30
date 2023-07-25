@@ -22,6 +22,7 @@ I'm learning about blockchain and deep learning now.
 ![Truffle](https://img.shields.io/badge/Truffle-006272.svg?style=for-the-badge&logo=Truffle&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-F8DC75.svg?style=for-the-badge&logo=Ganache&logoColor=white)
 #### Communication Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+---
 ## GitHub stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongmin30&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin30&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongmin30&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
