@@ -1,6 +1,7 @@
 
 # About me
 Hello, my name is dmkim and I am currently working as a web developer.
+
 I'm learning about blockchain and deep learning now.
 
 ## Tech Stack
